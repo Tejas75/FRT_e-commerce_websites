@@ -19,3 +19,23 @@ Project Description : The primary goal of an e-commerce site is to sell goods an
 Primary Azure Technology : Azure Bot Service, Static Web Apps ,Storage
 
 Other Azure Technologies : App Service
+
+Demo website link-
+https://wonderful-island-08b8db510.3.azurestaticapps.net
+
+***some Screenshots of websites and azure technology used***
+
+(https://github.com/Tejas75/FRT_e-commerce_websites/assets/92632393/146a48eb-da71-4fb4-a504-49368879d042)
+
+(https://github.com/Tejas75/FRT_e-commerce_websites/assets/92632393/ebe1a1d7-2256-4bc4-89eb-880561c8b3de)
+
+(https://github.com/Tejas75/FRT_e-commerce_websites/assets/92632393/a86c2656-43a7-42a2-8aa8-0c729b6a3144)
+
+(https://github.com/Tejas75/FRT_e-commerce_websites/assets/92632393/abfcfe95-688d-43b2-9b35-ffbc20b8aa18)
+
+
+
+
+
+
+
