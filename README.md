@@ -16,6 +16,6 @@ The purpose of any e-commerce website is to help customers narrow down their bro
 
 Project Description : The primary goal of an e-commerce site is to sell goods and services online. This project deals with developing an e-commerce website for Online laptop Accessories  Sale. It provides the user with a catalog of different laptop Accessories available for purchase in the store. They have the option to see each and every Details about the project.If the have any Problem customer support Facility is Also Available.
 
-Primary Azure Technology : Azure Bot Service, Web, Static Web Apps 
+Primary Azure Technology : Azure Bot Service, Static Web Apps ,Storage
 
 Other Azure Technologies : App Service
